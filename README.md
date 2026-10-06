@@ -241,26 +241,3 @@ Full system development and integration.
 
 System evaluation, research results, thesis writing and final presentation.
 
-## 📌 Current Status
-
-**Phase: Research & Development Setup**
-
-Current activities:
-
-* [x] Research topic finalized
-* [x] Initial research direction defined
-* [x] Initial ML models identified
-* [ ] Dataset finalization
-* [ ] Data preprocessing
-* [ ] Exploratory Data Analysis
-* [ ] ML model implementation
-* [ ] Explainability implementation
-* [ ] Fairness analysis
-* [ ] Intervention mechanism
-* [ ] System development
-* [ ] System evaluation
-* [ ] Final research documentation
-
-## 👨‍💻 Research Project
-
-This repository is maintained as part of an undergraduate software engineering research project focused on applying Machine Learning and intelligent intervention techniques to support student academic success in higher education.
